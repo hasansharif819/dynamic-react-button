@@ -5,4 +5,4 @@ This package provides a fully customizable button component in React. You can cu
 ## Installation
 
 ```bash
-npm install dynamic-react-button
+npm install @hasansharif819/dynamic-react-button

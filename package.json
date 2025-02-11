@@ -1,0 +1,20 @@
+{
+  "name": "dynamic-react-button",
+  "version": "1.0.0",
+  "description": "A customizable button component for React.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/dynamic-react-button.git"
+  },
+  "keywords": ["react", "button", "dynamic", "component"],
+  "author": "Sharif Hasan",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
